@@ -1,0 +1,38 @@
+
+        body{
+            background-color: rgb(224, 230, 232);
+        }
+        h1{
+        color:red; 
+        font-size:30px;
+        text-align:center;
+        font-family: 'Yanone Kaffeesatz', sans-serif; serif;
+        }
+        span{
+color: aqua;
+        }
+        p{ 
+           line-height: 30px;
+           
+            text-align:justify;
+            
+         } 
+       p.first_p{
+        color: white;
+        font-size:20px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        background-color: aquamarine;
+       }
+        a{
+            text-decoration: none;
+            font-size: 20px;
+        }
+        img{
+            border-radius: 20px;
+            display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+        
+            
+        }
